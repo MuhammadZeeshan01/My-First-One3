@@ -4,3 +4,6 @@ This is my First Repository3
 And I am trying to learn Github , first time
 <br>
 and now I am try to Modified tracked file
+<br>
+Now i need to Push my changes from local to remote directories
+ 
